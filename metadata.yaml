@@ -1,0 +1,35 @@
+_repo: White-Shadows-in-the-South-Seas_14384
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: O'Brien, Frederick
+    birthdate: 1869
+    deathdate: 1932
+    gutenberg_agent_id: '5627'
+    url: http://www.gutenberg.org/2009/agents/5627
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14384'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marquesas Islands (French Polynesia) -- Description and travel'
+- !lcsh 'O''Brien, Frederick, 1869-1932 -- Diaries'
+- !lcsh 'Hiva Oa (French Polynesia) -- Description and travel'
+- !lcsh 'Marquesas Islands (French Polynesia) -- Civilization'
+- !lcsh 'Hiva Oa (French Polynesia) -- Discovery and exploration'
+- !lcc 'DU'
+- !lcsh 'Hiva Oa (French Polynesia) -- Civilization'
+- !lcsh 'Marquesas Islands (French Polynesia) -- Discovery and exploration'
+- !lcsh 'O''Brien, Frederick, 1869-1932 -- Travel -- French Polynesia -- Marquesas
+  Islands'
+title: White Shadows in the South Seas
+url: http://www.gutenberg.org/ebooks/14384
